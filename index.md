@@ -46,7 +46,8 @@ Guardián 2FA's use and transfer of information received from Google APIs adhere
 ### Your choices and deleting your data
 
 - **Turn off sync or sign out:** use **Settings → Google backup**. Signing out revokes the extension's current access token, if one is active. Your codes stay on your device and your backup stays in Drive until you delete them.
-- **Delete the backup from Google Drive:** open Google Drive → **Settings → Manage apps**, find Guardián 2FA, and choose **Delete hidden app data**.
+- **Delete the backup from Google Drive:** use **Settings → Google backup → Delete Google backup**. You can also open Google Drive → **Settings → Manage apps**, find Guardián 2FA, and choose **Delete hidden app data**. If sync is still on in another device, that device uploads its copy again, so turn it off there first.
+- **Delete codes kept after a sync:** use **Discard these codes** in the same panel. Otherwise they are removed after 30 days.
 - **Remove the extension's access to your Google account:** go to [your Google account's third-party connections](https://myaccount.google.com/connections).
 - **Delete local data:** uninstalling the extension removes its local storage.
 
@@ -102,7 +103,8 @@ El uso y la transferencia de la información recibida de las API de Google por p
 ### Tus opciones y cómo borrar tus datos
 
 - **Desactivar la sincronización o cerrar sesión:** ve a **Ajustes → Copia en Google**. Al cerrar sesión se revoca el token de acceso actual de la extensión, si hay uno activo. Tus códigos siguen en tu dispositivo y tu copia sigue en Drive hasta que los borres.
-- **Borrar la copia de Google Drive:** abre Google Drive → **Configuración → Administrar aplicaciones**, busca Guardián 2FA y elige **Eliminar datos ocultos de la aplicación**.
+- **Borrar la copia de Google Drive:** ve a **Ajustes → Copia en Google → Borrar copia de Google**. También puedes abrir Google Drive → **Configuración → Administrar aplicaciones**, buscar Guardián 2FA y elegir **Eliminar datos ocultos de la aplicación**. Si otro dispositivo sigue con la sincronización activa, volverá a subir su copia, así que desactívala antes allí.
+- **Eliminar los códigos guardados tras una sincronización:** usa **Descartar estos códigos** en el mismo panel. Si no, se eliminan a los 30 días.
 - **Quitar el acceso de la extensión a tu cuenta de Google:** ve a [las conexiones con terceros de tu cuenta de Google](https://myaccount.google.com/connections).
 - **Borrar los datos locales:** al desinstalar la extensión se borra su almacenamiento local.
 
