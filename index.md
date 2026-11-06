@@ -2,7 +2,7 @@
 
 [English](#english) · [Español](#español)
 
-Last updated: November 5, 2026
+Last updated: November 6, 2026
 
 ## English
 
@@ -23,6 +23,8 @@ Guardián 2FA is a browser extension that generates two-factor authentication (2
 | Screen capture of the active tab (only when you start a page QR scan) | Processed on your device and not stored or sent anywhere | Reading a QR code you selected |
 
 The extension does not use analytics, advertising, or tracking. It does not sell your data or share it with anyone. Its only network requests go to Google, and only if you sign in with Google.
+
+Settings includes an optional donation link. It opens a Ko-fi page in a new tab only if you click it, and the extension sends nothing to Ko-fi. If you donate, Ko-fi and its payment providers handle your information under their own policies.
 
 ### Google sync
 
@@ -80,6 +82,8 @@ Guardián 2FA es una extensión de navegador que genera códigos de verificació
 | Captura de la pestaña activa (solo al iniciar un escaneo de QR en la página) | Se procesa en tu dispositivo y no se guarda ni se envía a ningún sitio | Leer el código QR que seleccionaste |
 
 La extensión no usa analítica, publicidad ni rastreo. No vende tus datos ni los comparte con nadie. Sus únicas peticiones de red van a Google, y solo si inicias sesión con Google.
+
+Ajustes incluye un enlace opcional de donación. Abre una página de Ko-fi en una pestaña nueva solo si lo pulsas, y la extensión no envía nada a Ko-fi. Si donas, Ko-fi y sus proveedores de pago tratan tu información según sus propias políticas.
 
 ### Sincronización con Google
 
